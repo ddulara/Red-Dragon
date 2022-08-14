@@ -56,7 +56,7 @@ global.button = '☰ 𝗬𝗼𝘂𝗧𝘂𝗯𝗲 ☰' //Costomize A Button Name
 global.btnurl = 'https://youtube.com/channel/UCqavu7x0voQw22mPAitZGPg' //Change Your Button's URL
 
 //database
-global.premium = ['+94763834336'] //ur premium numbers
+global.premium = ['+94785264243'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
